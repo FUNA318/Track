@@ -1,0 +1,15 @@
+name: Track
+main: Track\Main
+api: [3.0.0, 3.1.0]
+version: 1.0.0
+author: R_Funa
+description: “追跡プラグイン”
+commands:
+ track:
+  description: “追跡”
+  usage: “/track <playername>”
+  permission: op
+ tfin:
+  description: “追跡”
+  usage: “/tfin”
+  permission: op
